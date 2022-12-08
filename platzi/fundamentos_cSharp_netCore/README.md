@@ -10,7 +10,7 @@ developed by Microsoft.
 <br></br>
 
 ## Habilities
-- Clases
+- Classes
 - Object Oriented Programming (OOP)
 - Enumerations
 - Lists and Arrays
