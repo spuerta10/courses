@@ -19,7 +19,7 @@ Learn how to code with Python.
 ## Certificate
 The following certifies the course completion.   
 <br></br>
-![](https://github.com/spuerta10/cursos/blob/main/python_basico/recursos/imagenes_y_videos/certificado.jpg)   
+![](https://github.com/spuerta10/courses/blob/main/platzi/python_basico/recursos/imagenes_y_videos/certificado.jpg)   
 
 *Figure 1*. Course completion certificate.
 <br></br>
